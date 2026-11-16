@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="./assets/matrix.svg" width="800" />
+  <img src="./assets/header.svg" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&height=60&lines=%24+whoami;root+👾;%24+sudo+make+me+a+sandwich;Permission+granted+🥪;%24+rm+-rf+bugs%2F;Error%3A+bugs+are+features+🐛" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&duration=3000&pause=1000&color=FF7EB6&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Пью+чай+и+пишу+код+🍵;Люблю+котиков+и+баги+🐱;Делаю+мир+чуточку+уютнее+🌸;Рада+видеть+тебя+здесь+💖" />
 </p>
 
 <p align="center">
-  <img src="./assets/radar.svg" width="800" />
+  <img src="./assets/cat.svg" width="800" />
 </p>
 
 <p align="center">
-  <img src="./assets/marquee.svg" width="800" />
+  <img src="./assets/hearts.svg" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fkotik&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=fkotik&label=Гостей&color=ff7eb6&style=for-the-badge&labelColor=ffd1e8" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=60&section=footer&text=system%20online%20●&fontSize=16&fontColor=000000&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1e8,100:cfe0ff&height=100&section=footer" />
 </p>
