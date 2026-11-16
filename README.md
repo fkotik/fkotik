@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&duration=3000&pause=1000&color=FF7EB6&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Пью+чай+и+пишу+код+🍵;Люблю+котиков+и+баги+🐱;Делаю+мир+чуточку+уютнее+🌸;Рада+видеть+тебя+здесь+💖" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DD3FC&background=00000000&center=true&vCenter=true&width=650&height=50&lines=Пишу+код+между+звёздами+🌌;Ловлю+баги+в+невесомости+🐛;Мой+топливный+бак+полон+кофе+☕;Курс+на+новые+проекты+🚀" />
 </p>
 
 <p align="center">
-  <img src="./assets/cat.svg" width="800" />
+  <img src="./assets/astronaut.svg" width="800" />
 </p>
 
 <p align="center">
-  <img src="./assets/hearts.svg" width="800" />
+  <img src="./assets/orbit.svg" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fkotik&label=Гостей&color=ff7eb6&style=for-the-badge&labelColor=ffd1e8" />
+  <img src="https://komarev.com/ghpvc/?username=fkotik&label=Космонавтов&color=4fc3f7&style=for-the-badge&labelColor=0b1026" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1e8,100:cfe0ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4cca,100:0b1026&height=100&section=footer" />
 </p>
