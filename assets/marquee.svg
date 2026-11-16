@@ -1,0 +1,21 @@
+<svg width="800" height="50" viewBox="0 0 800 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip"><rect width="800" height="50" rx="10"/></clipPath>
+    <filter id="glow" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="800" height="50" rx="10" fill="#000"/>
+
+  <g clip-path="url(#clip)">
+    <g font-family="monospace" font-size="20" fill="#00ff41" filter="url(#glow)" xml:space="preserve">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="14s" repeatCount="indefinite"/>
+      <text x="0" y="32" textLength="800" lengthAdjust="spacing">PYTHON /// DOCKER /// LINUX /// GIT /// REACT /// SQL /// BASH /// </text>
+      <text x="800" y="32" textLength="800" lengthAdjust="spacing">PYTHON /// DOCKER /// LINUX /// GIT /// REACT /// SQL /// BASH /// </text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="799" height="49" rx="10" fill="none" stroke="#00ff41" stroke-opacity="0.5"/>
+</svg>
