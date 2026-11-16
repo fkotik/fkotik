@@ -1,56 +1,29 @@
-<h1 align="center">Привет, я Иван 👋</h1>
-<h3 align="center">Backend-разработчик из Москвы</h3>
-
+<!-- Шапка с мерцанием -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square" alt="views"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ff41&height=240&section=header&text=%3E_%20HACK%20THE%20PLANET&fontSize=48&fontColor=00ff41&animation=twinkling&fontAlignY=40&stroke=00ff41&strokeWidth=1" />
 </p>
 
----
-
-## 👨‍💻 Обо мне
-
-- 🔭 Сейчас работаю над: **название проекта**
-- 🌱 Изучаю: **Rust, Kubernetes**
-- 💬 Спросите меня о: **Python, Django, PostgreSQL**
-- 📫 Связаться со мной: [email@example.com](mailto:email@example.com)
-- ⚡ Интересный факт: *пишу код под lo-fi*
-
----
-
-## 🛠 Технологии
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 Статистика GitHub
-
+<!-- Терминал с печатью -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&height=60&lines=%24+whoami;root+👾;%24+sudo+make+me+a+sandwich;Permission+granted+🥪;%24+rm+-rf+bugs%2F;Error%3A+bugs+are+features+🐛" />
 </p>
 
----
-
-## 📌 Избранные проекты
-
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [Project One](https://github.com/USERNAME/project-one) | Короткое описание | Python, FastAPI |
-| [Project Two](https://github.com/USERNAME/project-two) | Короткое описание | React, TS |
-
----
-
-## 🌐 Контакты
-
+<!-- Своя анимация (файл из репозитория) -->
 <p align="center">
-  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="./assets/loader.svg" width="600" />
+</p>
+
+<!-- Стрик с горящим огоньком -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&background=00000000&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=00ff41&sideNums=00ff41&sideLabels=ffffff&dates=888888" />
+</p>
+
+<!-- Просмотры -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=000000" />
+</p>
+
+<!-- Подвал -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=80&section=footer&text=system%20online%20●&fontSize=18&fontColor=000000&animation=twinkling" />
 </p>
